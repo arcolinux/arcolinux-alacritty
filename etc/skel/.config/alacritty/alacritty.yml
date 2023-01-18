@@ -876,3 +876,6 @@ colors:
 
   # Print all received window events.
   #print_events: false
+
+key_bindings:
+  -  { key: F11, action: ToggleFullscreen }
