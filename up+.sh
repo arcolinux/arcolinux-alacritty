@@ -36,8 +36,8 @@ git pull
 
 workdir=$(pwd)
 
-echo "Get the original samba file from samba github"
-wget https://raw.githubusercontent.com/alacritty/alacritty/master/alacritty.yml -O $workdir/etc/skel/.config/alacritty/default-github.yml
+#echo "Get the original samba file from samba github"
+#wget https://raw.githubusercontent.com/alacritty/alacritty/master/alacritty.yml -O $workdir/etc/skel/.config/alacritty/default-github.yml
 
 
 # Below command will backup everything inside the project folder
